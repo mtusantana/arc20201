@@ -7,13 +7,12 @@ Accept: application/json
     "marcadores": [
         {"local": "Intelbras"},
         {"acao": "conversando"},
-         {"nome": "matheus.santana"},
-          {"conversa": "estranha"}
+        {"nome": "matheus.santana"},
+        {"conversa": "estranha"}
     ],
     "valores": [
         {"pessoas": 3},
         {"alienigenas": 8},
         {"vaca": 2}
     ]
-    
 }
